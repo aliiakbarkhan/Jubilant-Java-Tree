@@ -15,6 +15,7 @@ public class AllDisp {
                 set.add(i);
             }
         }
+        // write a program to add two numbers
         int[] ali = new int[set.size()];
         int j = 0;
         for(int val : set){
